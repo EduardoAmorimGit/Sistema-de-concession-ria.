@@ -21,3 +21,7 @@ Projeto acadêmico desenvolvido para praticar conceitos de:
 - **Controle de versão:** Git/GitHub
 
 ## 📁 Estrutura do Projeto
+
+sistema-concessionaria-carango/
+└── src/
+    └── Main.java
