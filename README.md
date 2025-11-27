@@ -1,11 +1,11 @@
-# 🚗 Sistema de Gestão - Concessionária Carango Velho
+🚗 **Sistema de Gestão - Concessionária Carango Velho**  
 
 Sistema desenvolvido em Java para cálculo de descontos em veículos baseado no ano de fabricação.
 
 ## 📋 Descrição
 Projeto acadêmico desenvolvido para praticar conceitos de:
 - Estruturas de repetição (while/do-while)
-- Condicionais e cálculos percentuais
+- Condicionais e cálculos percentuais  
 - Interação com usuário via console
 - Controle de fluxo de dados
 
