@@ -1,0 +1,10 @@
+## 🎯 Como Executar
+```bash
+# 1. Clone o repositório
+git clone https://github.com/seunome/sistema-concessionaria-carango.git
+
+# 2. Compile o código
+javac src/Main.java
+
+# 3. Execute
+java src/Main
